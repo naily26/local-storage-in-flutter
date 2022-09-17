@@ -1,16 +1,8 @@
 # local_storage_video_player
 
-A new Flutter project.
+## Hasil Running
 
-## Getting Started
+1. Upload file ![screenshoot local_storage_video_player](images/output_%60.png)
+2. Video player ![screenshoot local_storage_video_player](images/output_2.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
